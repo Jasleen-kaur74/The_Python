@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74226797-2f0e-4b5b-96ec-07d542a9c172" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-02/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-02/practise_set/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-02/practise_set/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-02/practise_set/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-02/practise_set/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-02/practise_set/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-02/practise_set/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-02/type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-02/typecasting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-03/escape_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-03/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-03/negativ_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-03/practise_set/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-03/practise_set/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-03/practise_set/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-03/practise_set/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-03/practise_set/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-03/string_slicing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-04/lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-04/methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-04/practise/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-04/practise/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-04/practise/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-04/practise/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-04/practise/q5..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-04/tuple_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-04/tuples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-05/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-05/methods_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-05/operations_on_Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-05/practise/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-05/practise/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-05/practise/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-05/practise/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-05/practise/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-05/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-05/union_intersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-06/conditional_statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-06/practise/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-06/practise/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-06/practise/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-06/practise/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-06/practise/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-06/practise/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-06/practise/q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-06/quick_quiz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/break_statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/demo_question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/for_loop_with_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/iterating_dict_forloops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/iteration_forloops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/list_using_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/nested_loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/prcatise/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/prcatise/q10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/prcatise/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/prcatise/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/prcatise/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/prcatise/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/prcatise/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/prcatise/q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/prcatise/q8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/prcatise/q9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/quetion_range_forloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/quiz_while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/range_in_for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-07/while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/Practise/q1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/Practise/q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/Practise/q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/Practise/q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/Practise/q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/Practise/q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/Practise/q7.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/Practise/q7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/Practise/q8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/RECURSION_FIBONACCI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/default_paramter_value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/func_with_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/quick_quiz_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch-08/recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch-01/ch-01practise/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch-01/ch-01practise/q1.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch-01/ch-01practise/q1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch-01/ch-01practise/q3.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch-01/ch-01practise/q3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch-01/jasleen.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch-01/jasleen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch-01/practise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch-02/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch-02/operators.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="34uVkBnWdMtYiJZ9jPuvC58eQGN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74226797-2f0e-4b5b-96ec-07d542a9c172" name="Changes" comment="" />
+      <created>1762063586436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762063586436</updated>
+    </task>
+    <servers />
+  </component>
+</project>

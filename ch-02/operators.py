@@ -2,6 +2,7 @@
 a = 7
 b = 17
 c = a+b # + is an arithmetic operator
+print("Arithmetic Operators")
 print("the value of a plus b is ",c)
 
 
@@ -47,8 +48,7 @@ print("True and True is ", True and True)
 print("False and True is ", False and True)
 print("False and False is ",False and False)
 
-
-
-
-
-
+print('\n')
+print("Logical Operator  'not' ")       #it just reverses the value
+print(not(True))                         # true to false
+print(not(False))                       # and false to true
